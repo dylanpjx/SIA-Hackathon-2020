@@ -1,6 +1,6 @@
 # SIA-Hackathon-2020
 
-Frontend database created for staff to easily refer to in times of baggage damage claims. This reduces disputes over responsibility and also prevents insurance fraud.
+Frontend database created for staff to easily refer to in times of baggage damage claims. This reduces disputes and also prevents insurance fraud.
 
 # Features
 - Styled with Material UI
